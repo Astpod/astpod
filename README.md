@@ -41,7 +41,7 @@ Astpod.createDay();
 <img src="https://komarev.com/ghpvc/?username=Astpod&label=Ziyaretçi%20Sayısı&color=552b75" alt="Astpod" />
 
 ## 🔧 Languages
-- ![](https://img.shields.io/badge/OS-Linux-black?style=flat-square&logo=linux&logoColor=blue)
+- ![](https://img.shields.io/badge/Code-HTML-black?style=flat-square&logo=html&logoColor=blue)
 - ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)
 - ![](https://img.shields.io/badge/Code-Python-black?style=flat-square&logo=python&logoColor=magenta)
 - ![](https://img.shields.io/badge/Code-Java-black?style=flat-square&logo=java&logoColor=white)
@@ -68,5 +68,5 @@ Astpod.createDay();
 
 </p>
 
-##Me 
+## Me
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/133210366820745216)](https://discord.com/users/133210366820745216)
