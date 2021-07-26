@@ -38,6 +38,9 @@ let Astpod = new CreateMan()
 Astpod.createDay();
 ```
 
+<div align="center">
+    <a href="https://discord.com/users/133210366820745216" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/133210366820745216"></a>
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=Astpod&label=Ziyaretçi%20Sayısı&color=552b75" alt="Astpod" />
 
