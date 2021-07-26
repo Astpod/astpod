@@ -56,8 +56,10 @@ Astpod.createDay();
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Astpod&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 ## Me
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/133210366820745216?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/133210366820745216)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/133210366820745216)](https://discord.com/users/133210366820745216)
+
 
 <h3>🌟 Contacts!</h3>
 <p align="center">
