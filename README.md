@@ -57,9 +57,6 @@ Astpod.createDay();
 [![trophy](https://github-profile-trophy.vercel.app/?username=Astpod&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## Me
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/133210366820745216)](https://discord.com/users/133210366820745216)
-
 
 <h3>🌟 Contacts!</h3>
 <p align="center">
@@ -70,3 +67,6 @@ Astpod.createDay();
       <a href="https://discord.com/users/133210366820745216" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 </p>
+
+##Me 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/133210366820745216)](https://discord.com/users/133210366820745216)
