@@ -38,7 +38,8 @@ let Astpod = new CreateMan()
 Astpod.createDay();
 ```
 ## Me
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/133210366820745216)](https://discord.com/users/133210366820745216)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/133210366820745216)]
+(https://discord.com/users/133210366820745216)
 
 
 *
