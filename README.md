@@ -37,13 +37,10 @@ class CreateMan extends Astpod {
 let Astpod = new CreateMan()
 Astpod.createDay();
 ```
-## Me
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/133210366820745216)](https://discord.com/users/133210366820745216)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/133210366820745216?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/133210366820745216)
 
+<img src="https://komarev.com/ghpvc/?username=Astpod&label=Ziyaretçi%20Sayısı&color=552b75" alt="Astpod" />
 
-*
-*
-*
 ## 🔧 Languages
 - ![](https://img.shields.io/badge/OS-Linux-black?style=flat-square&logo=linux&logoColor=blue)
 - ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)
