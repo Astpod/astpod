@@ -1,7 +1,3 @@
-<div align="center">
-    <a href="https://discord.com/users/133210366820745216" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/133210366820745216"></a>
-</div>
-
 ```js
 class Astpod {
   constructor(...options) {
