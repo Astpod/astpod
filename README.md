@@ -1,11 +1,11 @@
 ```js
 class Astpod {
   constructor(...options) {
-    this.height = "1.85"
-    this.weight = "63"
+    this.height = "1.87"
+    this.weight = "70"
     this.type = "human"
-    this.job = "student"
-    this.sex = "male"
+    this.job = "Technical office engineer"
+    this.gender = "male"
   }
 }
 
