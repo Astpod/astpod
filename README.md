@@ -2,7 +2,7 @@
 class Astpod {
   constructor(...options) {
     this.height = "1.87"
-    this.weight = "76"
+    this.weight = "83"
     this.type = "human"
     this.job = "Turkish Soldier (Lieutenant)"
     this.gender = "male"
