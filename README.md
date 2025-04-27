@@ -4,7 +4,7 @@ class Astpod {
     this.height = "1.87"
     this.weight = "83"
     this.type = "human"
-    this.job = "Turkish Soldier (Lieutenant)"
+    this.job = "Turkish Soldier"
     this.gender = "male"
   }
 }
