@@ -40,7 +40,7 @@ Astpod.createDay();
 
 <img src="https://komarev.com/ghpvc/?username=Astpod&label=Ziyaretçi%20Sayısı&color=552b75" alt="Astpod" />
 
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/894270550690635846)](https://discord.com/users/894270550690635846)
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/894270550690635846)](https://discord.com/users/230222138676609027)
 
 
 ## 🔧 Languages
